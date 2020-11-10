@@ -8,7 +8,7 @@
 .heroes li {
   position: relative;
   cursor: pointer;
-  background-color: #EEE;
+  background-color: #1E90FF;
   margin: .5em;
   padding: .3em 0;
   height: 1.6em;
@@ -17,8 +17,8 @@
 
 .heroes li:hover {
   color: #607D8B;
-  background-color: #DDD;
-  left: .1em;
+  background-color: #90EE90;
+  left: .3em;
 }
 
 .heroes a {
@@ -51,7 +51,7 @@
 }
 
 button {
-  background-color: #eee;
+  background-color: #F08080;
   border: none;
   padding: 5px 10px;
   border-radius: 4px;
